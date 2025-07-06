@@ -1,0 +1,20 @@
+{
+  "7434574509": {
+    "balance": 0,
+    "name": "ياسيـن",
+    "created_at": "2025-07-01T00:34:38.097527",
+    "total_spent": 0,
+    "purchase_count": 0,
+    "banned": false,
+    "pending_approval": true
+  },
+  "6233188349": {
+    "balance": 0,
+    "name": "ً",
+    "created_at": "2025-07-01T00:35:04.560013",
+    "total_spent": 0,
+    "purchase_count": 0,
+    "banned": false,
+    "pending_approval": true
+  }
+}

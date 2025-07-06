@@ -1,0 +1,39 @@
+{
+  "vpn_1month": {
+    "name": "VPN 1 شهر",
+    "price": 5000,
+    "description": "خدمة VPN عالية الجودة لمدة شهر كامل مع دعم جميع الأجهزة وسرعة عالية",
+    "codes": [
+      "vpn-code-001",
+      "vpn-code-002",
+      "vpn-code-003"
+    ],
+    "image": "https://i.imgur.com/YqzqHvz.jpg",
+    "category": "vpn",
+    "active": true
+  },
+  "netflix_account": {
+    "name": "حساب نتفليكس مشاركة",
+    "price": 8000,
+    "description": "حساب نتفليكس مشاركة عالي الجودة مع إمكانية المشاهدة بدقة 4K على جهازين",
+    "codes": [
+      "netflix-acc1:pass123",
+      "netflix-acc2:pass456"
+    ],
+    "image": "https://i.imgur.com/bOGJIqw.jpg",
+    "category": "streaming",
+    "active": true
+  },
+  "spotify_premium": {
+    "name": "Spotify Premium شهر",
+    "price": 3000,
+    "description": "اشتراك Spotify Premium لمدة شهر كامل مع إمكانية التحميل والاستماع بدون إعلانات",
+    "codes": [
+      "spotify-code-001",
+      "spotify-code-002"
+    ],
+    "image": "https://i.imgur.com/kN6QUxl.jpg",
+    "category": "music",
+    "active": true
+  }
+}
